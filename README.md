@@ -64,12 +64,5 @@ Currently exploring **Generative AI applications in analytics** and building por
 
 ---
 
-## 📊 GitHub Stats  
-
-![Rithesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritheshr-data&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritheshr-data&layout=compact&theme=tokyonight)
-
----
-
 > 💬 *“Data isn’t just numbers — it’s a story waiting to be told.”*  
 > — **Rithesh R**
